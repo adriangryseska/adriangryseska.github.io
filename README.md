@@ -1,13 +1,13 @@
 ## Information
-Just wait for other projects. The projects I complete can be the result of training in making websites and so on. 
+please wait for future projects. For future project plans in the form of a simple website, tools, and others.  
 
 ### Note
-I am a beginner who just joined some time ago in order to create a website. 
+I am a beginner trying to learn how to become a web developer  
 
 ### Skills
-I understand a little how to make a website using html, css. For the continuation in the form of javascript, I personally am still very basic in its use. 
+Already understand the basic workings of HTML, CSS and still trying to learn Javascript. 
 
 ## Completed project 
-#### KDA Calculator<br>
+#### KDA Calculator
 A tool that helps calculate your progress to increase KDA <br>
 Link : <a link href="https://adriangryseska.github.io/kda-calculator">adriangryseska.github.io/kda-calculator</a>
