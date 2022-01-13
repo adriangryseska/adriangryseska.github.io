@@ -13,5 +13,5 @@ A tool that helps calculate your progress to increase KDA on your favorite games
 Link : <a link href="https://adriangryseska.github.io/kda-calculator">adriangryseska.github.io/kda-calculator</a>
 
 #### Planet Dalam Sistem Tata Surya
-A simple website that explains the planets in the solar system.<br>Still not responsive for Phone user. Best appearance only for PC users. <br> 
+A simple website that explains the planets in the solar system. Still not responsive for Phone user. Best appearance only for PC users. <br> 
 Link : <a link href="https://adriangryseska.github.io/astronomy/">adriangryseska.github.io/astronomy/</a>
