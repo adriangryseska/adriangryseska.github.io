@@ -14,4 +14,4 @@ Link : <a link href="https://adriangryseska.github.io/kda-calculator">adriangrys
 
 #### Planet Dalam Sistem Tata Surya
 A simple website that explains the planets in the solar system.<br> 
-Link : <a link href="https://adriangryseska-astronomy.github.io/index.html">adriangryseska-astronomy.github.io/index.html</a>
+Link : <a link href="https://adriangryseska.github.io/astronomy/">adriangryseska.github.io/astronomy/</a>
