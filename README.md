@@ -1,2 +1,2 @@
 # adriangryseska
-Berisikan kumpulan dari projek-projek yang saya buat
+Ditunggu aja projek-projek lainnya, hehe :)
