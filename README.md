@@ -1,13 +1,13 @@
 # Adrian Gryseska
 Just wait for other projects. The projects I complete can be the result of training in making websites and so on. 
 
-### Catatan
-Saya merupakan pemula yang baru bergabung beberapa waktu lalu dalam rangka membuat website. 
+### Note
+I am a beginner who just joined some time ago in order to create a website. 
 
-### Skill
-Saya sedikit memahami cara membuat website menggunakan html, css. Untuk lanjutannya berupa javascript, saya pribadi masih sangat dasar dalam penggunaannya. 
+### Skills
+I understand a little how to make a website using html, css. For the continuation in the form of javascript, I personally am still very basic in its use. 
 
-## Project yang telah diselesaikan
+## Completed project 
 #### KDA Calculator<br>
-Tools yang membantu dalam menghitung target KDA
+A tool that helps calculate your progress to increase KDA 
 Link : <a link href="adriangryseska.github.io">adriangryseska.github.io/kda-calculator</a>
