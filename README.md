@@ -11,3 +11,7 @@ Already understand the basic workings of HTML, CSS and still trying to learn Jav
 #### KDA Calculator
 A tool that helps calculate your progress to increase KDA on your favorite games. <br>
 Link : <a link href="https://adriangryseska.github.io/kda-calculator">adriangryseska.github.io/kda-calculator</a>
+
+#### Planet Dalam Sistem Tata Surya
+A simple website that explains the planets in the solar system.<br> 
+Link : <a link href="https://adriangryseska-astronomy.github.io/index.html">adriangryseska-astronomy.github.io/index.html</a>
