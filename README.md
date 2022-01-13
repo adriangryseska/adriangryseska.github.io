@@ -9,5 +9,5 @@ I understand a little how to make a website using html, css. For the continuatio
 
 ## Completed project 
 #### KDA Calculator<br>
-A tool that helps calculate your progress to increase KDA 
+A tool that helps calculate your progress to increase KDA <br>
 Link : <a link href="https://adriangryseska.github.io/kda-calculator">adriangryseska.github.io/kda-calculator</a>
