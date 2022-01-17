@@ -17,5 +17,5 @@ A simple website that explains the planets in the solar system. Still not respon
 Link : <a link href="https://adriangryseska.github.io/astronomy/">adriangryseska.github.io/astronomy/</a>
 
 #### Mobile Legend WR Calculator
-A tool that helps calculate the winning target to increase WR in the game you are playing, for example Mobile Legends - Bang Bang 
+A tool that helps calculate the winning target to increase WR in the game you are playing, for example Mobile Legends - Bang Bang <br>
 Link : <a link href="https://adriangryseska.github.io/wr-calculator">adriangryseska.github.io/wr-calculator</a>
