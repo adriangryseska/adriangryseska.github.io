@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+
+<style>
+    
+    #header #menu #body #footer{
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 0;
+        border: 0px solid black;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        line-height: 50px;
+    }
+    #header{
+        min-height: 100px;
+        padding-top: 55px;
+        padding-bottom: 0px;
+        background-color:#10518ac9 ;
+        
+    }
+    #judul{
+        min-height: 0px;
+        background-color: #10518ac9;
+        padding-bottom: 0px
+    }
+    #body{
+        background-color: #5bc0de;
+        min-height: 400px;
+        
+    }
+    #footer{
+        min-height: 15px;
+        background-color: #5bc0de;
+        padding-top: 20px;
+    }
+    body{
+        margin: 0px;
+        padding: 0px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        padding-top: 0px; 
+        padding-bottom: 0px
+    }
+
+</style>
+
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Mobile Legends WR Calculator</title>
+    </head>
+
+    <body>
+        <div id="header">
+            <center><img style="width: 200px; height:auto" src="https://hitungwr.com/assets/images/MobileLegends.png"> </center>
+        </div>
+        <div id="judul" style="text-align: center; font-size: 250%; padding: 0%; color: white;">
+            <b>Mobile Legends <br>WinRate Calculator</b><br><br><hr style="color:white">
+        </div>
+        
+        <div id="body" style="text-align: center; padding-left: 3%; padding-right: 3% ; padding-top: 2%; color:white; line-height: 180%;">
+
+            <label>Jumlah Pertandingan</label><br>
+            <input style="width: 380px; height: 23; border: 3px solid white;" type= "number" id="tMatch" placeholder="Cth: 239"><br><br>
+
+            <label> Win Rate (%)</label><br>
+            <input style="width: 380px; height: 23; border: 3px solid white;" step="0.1" class="form-control" style="width: 150px" type= "number" id="tWr" placeholder="Cth: 60.5"><br><br>
+
+            <label>Target Win Rate (%)</label><br>
+            <input style="width: 380px; height: 23; border: 3px solid white;" step="0.1" class="form-control" style="width: 150px" type= "number" id="wrReq" placeholder="Cth: 64.2"><br><br>
+             
+            <button style="border-radius: 1%; float: center;" onclick="rumus()">Hitung</button>
+            <button style="border-radius: 1%; float: center; margin-left: 10px" onclick="reset()">Reset</button><br><br>
+            
+
+            <label>Jumlah Pertandingan yang Harus Anda Selesaikan <br>Tanpa Kalah<br><small style="font-size: 50%;">(Hasil berdasarkan pembulatan koma ke-atas)</small></label><br>
+            <textarea type="text" style="resize: none; text-align: center; width: 80px; height: 19px;" id="total"></textarea><br>
+        
+    
+
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script type="text/javascript">
+
+
+            function rumus() {
+    
+    //value
+                 const tMatch=parseInt(document.getElementById("tMatch").value);
+                 const tWr=document.getElementById("tWr").value;
+                 const wrReq=document.getElementById("wrReq").value;
+
+    //rumus
+                 
+                 let tWin = tMatch * (tWr / 100);
+                 let tLose = tMatch * ((100 - tWr) / 100);
+                 let sisaWr = 100 - wrReq;
+                 let wrResult = 100 / sisaWr;
+                 let seratusPersen = tLose * wrResult;
+                 let total = seratusPersen - tMatch;
+                 let totalnocommas = Math.ceil(total);
+                 totalnocommas = totalnocommas || 0
+
+    //output
+
+                 document.getElementById("total").innerHTML= totalnocommas;
+            }
+
+    //tombol reset 
+
+            function reset() {
+                document.getElementById("tMatch").value='';
+                document.getElementById("tWr").value='';
+                document.getElementById("wrReq").value='';
+            }
+            
+                
+        </script>
+        </div>
+
+        <div id="footer">
+           <center style="font-size: small; vertical-align: middle; margin-bottom: 0%; color: white; padding-bottom: 10px"><small>&copy; Powered By Adrian Gryseska</small><br></center>
+        </div>
+    </body>
+</html>
