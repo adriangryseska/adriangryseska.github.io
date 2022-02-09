@@ -1,11 +1,11 @@
 ## Information
-please wait for future projects. For future project plans in the form of a simple website, tools, and others.  
+Please wait for more project. I make a website, and tools that may help you.
 
 ### Note
-I am a beginner trying to learn how to become a web developer  
+I am a beginner. You may find any wrong or bad code because i'm still on learning. 
 
 ### Skills
-Already understand the basic workings of HTML, CSS and still trying to learn Javascript. 
+I already understand the basic workings of HTML, CSS and still trying to learn Javascript. 
 
 ## Completed project 
 #### KDA Calculator
