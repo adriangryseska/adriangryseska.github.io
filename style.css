@@ -91,12 +91,12 @@ a {
     background-color: #373737;
     width: 13vh;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.0);
-    padding: 20px 10px 50px 30px;
+    padding: 20px 10px 20px 30px;
     z-index: 1;
     visibility: visible;
     margin: 0px;
     list-style-type: none;
-    height: 15vh;
+    height: auto;
 }
 
 .dropdown-child li {
@@ -149,17 +149,18 @@ a {
 }
 .main .container {
     background-color: rgb(218, 218, 218);
-    background-image: url(assets/bg-abstract3.png);
+    background-image: url(assets/bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
     font-family: Poppins;
     width:100% ;
+    color: whitesmoke ;
     height: 89vh;
     display: flex;
     flex-direction: row-reverse;
     padding: 0px;  
-    font-size:2vmax;
+    font-size: 4vmin;;
     line-height: normal;
     box-align: left;
 
@@ -175,7 +176,7 @@ a {
         padding: 2em 1em 2em 4em;
         text-align: center;
         margin-top: 0;
-        line-height: 35px;
+        line-height: 7vmin;
         margin-right: 2em;
     }
     .main .container .left {
@@ -191,12 +192,13 @@ a {
 .main .container .left {
     flex: 1;
     /*background-color: red;*/
+    display: block;
     background-image: url(assets/adrian.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
     width: 10vmax;
-    height: 10vmax;
+    height: 5vmax;
     padding: 3em 3em 3em 3em;
     align-self: center;
     margin-right: 2em;
@@ -209,12 +211,84 @@ a {
     align-self: center;
     text-align: left;
     margin-left: 2em;
+    text-transform: capitalize;
+}
+.main .container .right button{
+    padding: 1px;
+    font-family: Poppins;
+    font-size: 2vmin;
+    margin: 3vmin 0 5vmin 0;
+    height: 5vmin;
+    width: auto;
+}
+.main .container .right h1{
+    font-weight: 1000;
 }
 
-.aboutme {
+.aboutme, .contact, .skills {
     margin: 7vmax;
+    font-size: 1em;
 }
 
-.contact {
-    margin: 7vmax
+.aboutme, .skills, .contact p{
+    text-align: justify;
+}
+
+.container-flex{
+    flex-direction: column;
+    /*border: 1px solid black;*/
+    padding: 1rem;
+    font-size: smaller;
+}
+
+.flex-item{
+    /*border: 1px solid black;*/
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+    padding: 5px;
+    margin: 10px;
+    height: fit-content;
+    margin-top: 20px;
+}
+
+.email{
+    /*border: 1px solid black;*/
+    width: 230px;
+    text-align: center;
+    margin-bottom: 15px;
+    height: 100px;
+    padding-bottom: 30px;
+}
+.telegram{
+    /*border: 1px solid black;*/
+    width: 230px;
+    text-align: center;
+    margin-bottom: 15px;
+    height: 100px;
+}
+.instagram{
+    /*border: 1px solid black;*/
+    width: 230px;
+    text-align: center;
+    margin-bottom: 15px;
+    height: 100px;
+}
+.facebook{
+    /*border: 1px solid black;*/
+    width: 230px;
+    text-align: center;
+    margin-bottom: 15px;
+    height: 100px;
+}
+
+.container-flex .flex-item .email button{
+    padding: 5px;
+    margin: 10px;
+    color: black;
+    font-family: Poppins;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 3px;
 }
