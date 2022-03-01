@@ -216,7 +216,7 @@ a {
 .main .container .right button{
     padding: 1px;
     font-family: Poppins;
-    font-size: 2vmin;
+    font-size: 2vh;
     margin: 3vmin 0 5vmin 0;
     height: 5vmin;
     width: auto;
