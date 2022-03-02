@@ -1,12 +1,5 @@
-## Information
-Please wait for more project. I make a website, and tools that may help you.
-
-### Note
-I am a beginner. You may find any wrong or bad code because i'm still on learning. 
-
-### Skills
-I already understand the basic workings of HTML, CSS and still trying to learn Javascript. 
-
+# Welcome to my Github Project!
+Here you can see all my completed project. 
 ## Completed project 
 #### KDA Calculator
 A tool that helps calculate your progress to increase KDA on your favorite games. <br>
