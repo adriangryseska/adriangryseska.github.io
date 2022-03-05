@@ -156,13 +156,13 @@ a {
     margin: 0px;
 }
 .main .container {
-    background-color: rgb(218, 218, 218);
-    background-image: #373737;
+    background-color: #373737;
+    background-image: url(assets/bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
     font-family: Poppins;
-    width:100% ;
+    width: 100% ;
     color: whitesmoke ;
     height: 100vh;
     display: flex;
