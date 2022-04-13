@@ -44,6 +44,9 @@ body {
     text-align: center;
     line-height: 110%;
 }
+.container a{
+    color: #cbc7c2;
+}
 
 @media only screen and (max-width: 600px) {
     .header .container {
