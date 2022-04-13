@@ -9,6 +9,7 @@ html {
     scroll-behavior: smooth;
     font-family: Poppins;
     height: 100%;
+    scroll-padding-top: 19vh;
 }
 
 body {
@@ -28,7 +29,7 @@ body {
     color: #cbc7c2;
     font-size: 2.5vh;
     top: 0;
-    transition: top 0.3s;
+    transition: top 0.4s;
     z-index: 9999;
 }
 
@@ -38,7 +39,7 @@ body {
     width: 80%;
     justify-content: center;
     align-content: center;
-    padding: 0.2em;
+    padding: 1em;
     margin-right: 10%;
     text-align: center;
     line-height: 110%;
@@ -47,6 +48,9 @@ body {
 @media only screen and (max-width: 600px) {
     .header .container {
       text-align: right;
+    }
+    .left {
+        padding-top: 1000px
     }
   }
 
@@ -152,8 +156,8 @@ a {
 }
 
 .main {
-    padding-top: 45px;
-    margin: -19vh 0 0 0;
+    padding-top: 0px;
+    margin: 0px;
 }
 .main .container {
     background-color: #373737;
@@ -162,7 +166,7 @@ a {
     background-size: cover;
     background-attachment: scroll;
     font-family: Poppins;
-    width: 100% ;
+    width:100% ;
     color: whitesmoke ;
     height: 100vh;
     display: flex;
@@ -171,7 +175,7 @@ a {
     font-size: 4vmin;;
     line-height: normal;
     box-align: left;
-    margin-top: 5vh;
+    padding-top: 5vh;
 
 }
 
