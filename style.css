@@ -255,7 +255,7 @@ hr {
 }
 .aboutskills {
     display: flex;
-    font-size: 1.1em;
+    font-size: 1em;
     margin: 0 5vmax 5vmax 5vmax
 }
 .aboutskills .aboutme{
