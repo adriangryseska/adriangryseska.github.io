@@ -194,10 +194,10 @@ a {
         text-align: center;
         margin-top: 0px;
         line-height: 6vmin;
-        margin-right: 2em;
+        margin-right: 1em;
     }
     .main .container .left {
-        margin-left: 2em;
+        margin-left: 1em;
         margin-top:5vh;
         background-size: cover;
     }
