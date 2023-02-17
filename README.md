@@ -15,4 +15,4 @@ Link : <a link href="https://adriangryseska.github.io/wr-calculator/">adriangrys
 
 #### Community Service Activity Articles (Artikel KKM)
 An article about community service activities (Kuliah Kerja Mahasiswa) that has been done 
-Link : <a link href="https://adriangryseska.github.io/kkm
+Link : <a link href="https://adriangryseska.github.io/kkm/">adriangryseska.github.io/kkm/</a>
