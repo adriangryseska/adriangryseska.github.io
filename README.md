@@ -12,3 +12,7 @@ Link : <a link href="https://adriangryseska.github.io/planets//">adriangryseska.
 #### Mobile Legend WR Calculator
 A tool that helps calculate the winning target to increase WR in the game you are playing, for example Mobile Legends - Bang Bang <br>
 Link : <a link href="https://adriangryseska.github.io/wr-calculator/">adriangryseska.github.io/wr-calculator/</a>
+
+#### Community Service Activity Articles (Artikel KKM)
+An article about community service activities (Kuliah Kerja Mahasiswa) that has been done 
+Link : <a link href="https://adriangryseska.github.io/kkm
