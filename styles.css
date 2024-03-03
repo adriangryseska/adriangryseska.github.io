@@ -24,7 +24,7 @@ body {
   
   #hamburger {
     color: #fff;
-    font-size: 3vmax;
+    font-size: 2 rem;
     width: 15%;
     cursor: pointer;
     display: none;
@@ -60,7 +60,6 @@ body {
       width: 100%;
       background-color: #1F2544;
       flex-direction: column;
-      padding: 15px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
   
