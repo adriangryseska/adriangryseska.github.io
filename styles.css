@@ -28,6 +28,7 @@ body {
     width: 15%;
     cursor: pointer;
     display: none;
+    padding: 0;
   }
   
   #nav-menu {
