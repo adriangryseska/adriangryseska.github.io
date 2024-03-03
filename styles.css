@@ -24,7 +24,8 @@ body {
   
   #hamburger {
     color: #fff;
-    font-size: 5vmax;
+    font-size: 3vmax;
+    width: 15%;
     cursor: pointer;
     display: none;
   }
