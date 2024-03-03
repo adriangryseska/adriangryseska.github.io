@@ -24,8 +24,8 @@ body {
   
   #hamburger {
     color: #fff;
-    font-size: 2 rem;
-    width: 15%;
+    font-size: 3vmax;
+    text-align: center;
     cursor: pointer;
     display: none;
     padding: 0;
@@ -40,6 +40,7 @@ body {
   
   #nav-menu li {
     margin-right: 20px;
+    margin-left: 20px;
   }
   
   #nav-menu li a {
@@ -69,6 +70,7 @@ body {
   
     #nav-menu li {
       margin: 10px 0;
+      padding-left: 10px;
     }
   }
   
