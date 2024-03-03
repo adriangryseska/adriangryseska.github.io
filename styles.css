@@ -1,4 +1,4 @@
-/* file: styles.css */
+/* styles.css */
 body {
     margin: 0;
     padding: 0;
@@ -24,7 +24,7 @@ body {
   
   #hamburger {
     color: #fff;
-    font-size: 4vmax;
+    font-size: 5vmax;
     cursor: pointer;
     display: none;
   }
