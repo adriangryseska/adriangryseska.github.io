@@ -13,7 +13,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #1F2544;
-    padding: 15px;
+    padding: 10px;
     position: fixed;
     top: 0;
     left: 0;
@@ -24,7 +24,7 @@ body {
   
   #hamburger {
     color: #fff;
-    font-size: 3vmax;
+    font-size: 4vmax;
     text-align: center;
     cursor: pointer;
     display: none;
@@ -39,8 +39,8 @@ body {
   }
   
   #nav-menu li {
-    margin-right: 20px;
-    margin-left: 20px;
+    margin-right: 30px;
+    margin-left: 30px;
   }
   
   #nav-menu li a {
@@ -69,8 +69,8 @@ body {
     }
   
     #nav-menu li {
-      margin: 10px 0;
-      padding-left: 10px;
+      margin: 20px 0;
+      padding-left: 20px;
     }
   }
   
