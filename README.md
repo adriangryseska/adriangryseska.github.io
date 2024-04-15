@@ -20,5 +20,5 @@ A tool that helps calculate the winning target to increase WR in the game you ar
 Link : <a link href="https://adriangryseska.github.io/wr-calculator/">adriangryseska.github.io/wr-calculator/</a>
 
 #### Community Service Activity Articles (Artikel KKM)
-An article about community service activities (Kuliah Kerja Mahasiswa) that has been done 
+An article about community service activities (Kuliah Kerja Mahasiswa).
 Link : <a link href="https://adriangryseska.github.io/kkm/">adriangryseska.github.io/kkm/</a>
