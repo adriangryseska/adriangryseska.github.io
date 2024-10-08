@@ -1,5 +1,5 @@
 # Welcome to my Github Project!
-Here you can see all my completed project. 
+Here you can see all my completed mini project. 
 ## Completed project 
 
 #### Portfolio
