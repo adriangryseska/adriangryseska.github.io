@@ -26,4 +26,4 @@ Link : <a link href="https://adriangryseska.github.io/kkm/">adriangryseska.githu
 #### AutoTyping Bot with CAPTCHA Detection
 A simple tools to do autotyping in OwO discord bot with CAPTCHA detection and reminder.
 
-Link : <a link href="https://github.com/adriangryseska/owobot">adriangryseska.github.io/owobot/</a>
+Link : <a link href="https://github.com/adriangryseska/owobot">https://github.com/adriangryseska/owobot</a>
