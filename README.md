@@ -24,6 +24,6 @@ An article about community service activities (Kuliah Kerja Mahasiswa).
 A simple tool to do autotyping in OwO Discord bot with CAPTCHA detection and reminder.
 - **Link**: [GitHub Repository](https://github.com/adriangryseska/owobot)
 
-### 6. **Data Analysis Portfolio**
+### 6. **Python Data Analysis**
 A collection of data analysis projects showcasing my skills in Python (Pandas, NumPy, Matplotlib, Seaborn), including dataset visualization, statistical analysis, and more.
-- **Link**: [GitHub Repository](https://github.com/adriangryseska/data-analysis-portfolio)
+- **Link**: [GitHub Repository](https://github.com/adriangryseska/python-data-analyst)
