@@ -1,29 +1,29 @@
 # Welcome to my Github Project!
-Here you can see all my completed mini project. 
-## Completed project 
 
-#### Portfolio
-My portfolio website that explain my experience and skill.
-<br>
+Here you can see all my completed mini projects.
 
-Link : <a link href="https://adriangryseska.github.io/">adriangryseska.github.io</a>
+## Completed Projects
 
-#### KDA Calculator
-A tool that helps calculate your progress to increase KDA on your favorite games. <br>
+### 1. **Portfolio**
+My portfolio website that explains my experience and skill.
+- **Link**: [adriangryseska.github.io](https://adriangryseska.github.io)
 
-Link : <a link href="https://adriangryseska.github.io/kda-calculator/">adriangryseska.github.io/kda-calculator/</a>
+### 2. **KDA Calculator**
+A tool that helps calculate your progress to increase KDA on your favorite games.
+- **Link**: [adriangryseska.github.io/kda-calculator/](https://adriangryseska.github.io/kda-calculator/)
 
-#### Mobile Legend WR Calculator
-A tool that helps calculate the winning target to increase WR in the game you are playing, for example Mobile Legends - Bang Bang <br>
+### 3. **Mobile Legend WR Calculator**
+A tool that helps calculate the winning target to increase WR in the game you are playing, for example Mobile Legends - Bang Bang.
+- **Link**: [adriangryseska.github.io/wr-calculator/](https://adriangryseska.github.io/wr-calculator/)
 
-Link : <a link href="https://adriangryseska.github.io/wr-calculator/">adriangryseska.github.io/wr-calculator/</a>
-
-#### Community Service Activity Articles (Artikel KKM)
+### 4. **Community Service Activity Articles (Artikel KKM)**
 An article about community service activities (Kuliah Kerja Mahasiswa).
+- **Link**: [adriangryseska.github.io/kkm/](https://adriangryseska.github.io/kkm/)
 
-Link : <a link href="https://adriangryseska.github.io/kkm/">adriangryseska.github.io/kkm/</a>
+### 5. **AutoTyping Bot with CAPTCHA Detection**
+A simple tool to do autotyping in OwO Discord bot with CAPTCHA detection and reminder.
+- **Link**: [GitHub Repository](https://github.com/adriangryseska/owobot)
 
-#### AutoTyping Bot with CAPTCHA Detection
-A simple tools to do autotyping in OwO discord bot with CAPTCHA detection and reminder.
-
-Link : <a link href="https://github.com/adriangryseska/owobot">https://github.com/adriangryseska/owobot</a>
+### 6. **Data Analysis Portfolio**
+A collection of data analysis projects showcasing my skills in Python (Pandas, NumPy, Matplotlib, Seaborn), including dataset visualization, statistical analysis, and more.
+- **Link**: [GitHub Repository](https://github.com/adriangryseska/data-analysis-portfolio)
